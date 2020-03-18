@@ -18,3 +18,6 @@ ReactDOM.render(
   </Provider>,
   document.querySelector("#root")
 );
+
+//console.log('LA CLAVE ES ', process.env.REACT_APP_STRIKE_KEY);
+//console.log('Enviroment ', process.env.NODE_ENV);
